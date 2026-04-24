@@ -9,5 +9,5 @@ class Solution:
             if arr[i] >= maxHeight:
                 count += 1
                 maxHeight = arr[i]
-        return count        return count;
+        return count
 
